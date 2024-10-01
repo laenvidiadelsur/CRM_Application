@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:project/providers/auth_provider.dart';
-import 'screens/login/login.dart';
 import 'routes/app_routes.dart';
 
 import 'package:flutter/material.dart';

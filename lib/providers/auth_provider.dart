@@ -15,7 +15,7 @@ class AuthProvider with ChangeNotifier {
       _isAuthenticated = true;
     } else {
       _isAuthenticated = false;
-      // Puedes manejar errores aquí
+      // Manejar errores aquí
     }
 
     notifyListeners();
